@@ -1,2 +1,2 @@
-# MinimaxChess
- Minimax Chess With C++
+# MinimaxTicTacToe
+ Minimax TicTacToe With C++
