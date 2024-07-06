@@ -1,2 +1,4 @@
 # MinimaxTicTacToe
- Minimax TicTacToe With C++
+Minimax TicTacToe With C++
+
+Mehmet Turan Yardımcı
