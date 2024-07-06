@@ -1,4 +1,4 @@
 # MinimaxTicTacToe
-Minimax TicTacToe With C++
+TicTacToe Game With Minimax Algorithm With C++
 
 Mehmet Turan Yardımcı
