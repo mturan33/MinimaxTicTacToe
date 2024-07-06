@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Turan\\Desktop\\MinimaxTic\\MinimaxTic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF63536-8A85-4FEA-9A9F-5541B1CA4C4F}|MinimaxTic.vcxproj|C:\\Users\\Turan\\Desktop\\MinimaxTic\\MinimaxTic\\MinimaxTic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF63536-8A85-4FEA-9A9F-5541B1CA4C4F}|MinimaxTic.vcxproj|solutionrelative:MinimaxTic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinimaxTic.cpp",
+              "DocumentMoniker": "C:\\Users\\Turan\\Desktop\\MinimaxTic\\MinimaxTic\\MinimaxTic.cpp",
+              "RelativeDocumentMoniker": "MinimaxTic.cpp",
+              "ToolTip": "C:\\Users\\Turan\\Desktop\\MinimaxTic\\MinimaxTic\\MinimaxTic.cpp",
+              "RelativeToolTip": "MinimaxTic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-05T15:52:46.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
